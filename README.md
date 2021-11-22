@@ -1,5 +1,5 @@
 # CRUD-Webapp
-This is Basic Create, Remove, Update, Delete webapp which uses HTML, PHP, Javascript, JSON, Jquery and CSS.It uses PDO(PHP Data Objects) for database connectivity and all operations in backend.
+This is Basic Create, Remove, Update, Delete webapp which uses HTML, PHP, Javascript, JSON, Jquery and CSS.It uses PDO(PHP Data Objects) for database connectivity and to manage all operations in backend.
 
 In this Project one can see details of all the members in the index page without login.It can be done by moving to profile page by clicking the link in name.
 
